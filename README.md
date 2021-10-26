@@ -29,4 +29,4 @@ ls
 
 cd Update 
 
-python2 Update.py 
+python Update.py 
