@@ -29,4 +29,6 @@ ls
 
 cd Update 
 
-python Update.py 
+git pull
+
+python update.py 
